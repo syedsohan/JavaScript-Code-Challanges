@@ -1,0 +1,7 @@
+<!-- prettier-ignore -->
+
+# To exclude files from formatting, create a .prettierignore file in the root of your project. .prettierignore uses gitignore syntax.
+
+# Ignore all README files:
+
+*.md
